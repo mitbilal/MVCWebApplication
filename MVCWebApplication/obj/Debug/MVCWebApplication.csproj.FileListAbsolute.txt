@@ -74,6 +74,5 @@ D:\SourceCode\MVCWebApplication\MVCWebApplication\bin\Antlr3.Runtime.pdb
 D:\SourceCode\MVCWebApplication\MVCWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\SourceCode\MVCWebApplication\MVCWebApplication\obj\Debug\MVCWebApplication.csproj.AssemblyReference.cache
 D:\SourceCode\MVCWebApplication\MVCWebApplication\obj\Debug\MVCWebApplication.csproj.CoreCompileInputs.cache
-D:\SourceCode\MVCWebApplication\MVCWebApplication\obj\Debug\MVCWebApplication.csproj.CopyComplete
 D:\SourceCode\MVCWebApplication\MVCWebApplication\obj\Debug\MVCWebApplication.dll
 D:\SourceCode\MVCWebApplication\MVCWebApplication\obj\Debug\MVCWebApplication.pdb
